@@ -1,4 +1,4 @@
 # yt_vid_dload
-Simple Python project on YouTube Video Downloader
-It is a Simple YouTube Video Downloader Project using Python
+Python project on YouTube Video Downloader
+Using this project one can download youtube videos to thier local system,
 python tkinter is used for GUI
